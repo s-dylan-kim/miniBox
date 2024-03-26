@@ -836,7 +836,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 3.75 6.7 270)
+			(at 3.75 6.7 -90)
 			(layer "F.Fab")
 			(uuid "3c25b11b-580c-4509-a829-7210c4d9a52c")
 			(effects
@@ -1108,7 +1108,7 @@
 			(uuid "38e23462-e25b-4a0a-aea1-d5bfa951aeaa")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.25 2.25 270)
+			(at 3.25 2.25 -90)
 			(layer "F.Fab")
 			(uuid "41726db5-c27b-4b9f-9464-00847d803de1")
 			(effects
@@ -11108,6 +11108,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "e81c5ef3-fbd4-4f29-bbbf-5d1f8fa19aac")
+	)
+	(gr_text "Wak Box"
+		(at 244.5 169.5 0)
+		(layer "F.SilkS")
+		(uuid "ccd946e8-b963-472d-a681-22f2204553bd")
+		(effects
+			(font
+				(size 15 15)
+				(thickness 2)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 192 61.644962)
