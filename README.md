@@ -14,8 +14,8 @@ A RP2040 powered hitbox style controller PCB, housing, and firmware built by me.
 
 ## PCB
 
-![PCB image](img/PCB.png)
+![PCB Image](img/PCB.png)
 
 ## Schematic
 
-![PCB image](img/schematic.png)
+![Schematic Image](img/Schematic.png)
