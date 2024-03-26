@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mcu")(type "KiCad")(uri "C:/Users/sdyla/Documents/KiCAD Lib/kleeb-master/kleeb-master/mcu.kicad_sym")(options "")(descr ""))
+)

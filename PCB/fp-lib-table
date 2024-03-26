@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "mcu")(type "KiCad")(uri "C:/Users/sdyla/Documents/KiCAD Lib/kleeb-master/kleeb-master/mcu.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "C:/Users/sdyla/Documents/KiCAD Lib/keyswitches.pretty-master")(options "")(descr ""))
+)
